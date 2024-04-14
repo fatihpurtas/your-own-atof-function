@@ -42,8 +42,6 @@ Error has been occurred due to inappropriate input!
 </code></pre>
 
 
-Here's the converted text in HTML:
-
 <h2>Task 2: Arithmetic Operations with myAtof</h2>
 <p>Building upon your custom myAtof function from Task 1, this part involves extending arithmetic operation evaluation (+, -, *, /) to operate on floating-point numbers.</p>
 

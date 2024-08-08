@@ -1,6 +1,6 @@
 <h2>atof Function Implementation</h2>
 <p>The `atof` function in C programming language converts a string into a floating-point number representation. It stands for "ASCII to float".</p>
-
+ramazan emre erkan adamdır
 <h3>Task 1: Custom `myAtof` Function</h3>
 <p>In this assignment, you'll implement your own `atof` function:</p>
 <pre><code>float myAtof(char* string, char* error)</code></pre>

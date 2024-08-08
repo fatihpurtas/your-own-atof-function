@@ -19,7 +19,7 @@
 <h3>Sample Outputs</h3>
 
 <p>Here are some sample outputs demonstrating expected behavior:</p>
-test
+
 <h4>Valid Input:</h4>
 
 <pre><code>Enter a number:

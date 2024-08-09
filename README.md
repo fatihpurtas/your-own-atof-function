@@ -10,7 +10,7 @@
   <li><code>char* error</code>: A pointer to a character variable to store an error code (0 for success, 1 for error).</li>
 </ul>
 <p>The function returns a `float` value representing the converted number.</p>
-
+test
 <ul>
   <li>**Error Handling:** If the character array cannot be converted (contains letters, special characters, etc.), the `error` variable is set to 1, and the function returns 0.0.</li>
   <li>**Error Message:** If an error occurs (conversion fails), an error message should be displayed to the user, indicating invalid input.</li>
